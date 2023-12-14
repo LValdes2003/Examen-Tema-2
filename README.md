@@ -22,8 +22,8 @@ b) Permiten la creación de funciones y clases genéricas, es decir, que pueden 
 #### Estructura "Estudiante":
 El proceso de crear la estructura fue idéntico en C++ y C. La función mostrarEstudiante() fue diferente por el uso de printf comparado a std::cout. printf requiere la especificación de un formato para cada variable (%s para un string, %d para un número entero decimal y %.1f para un float con una cifra después del punto). Adicionalmente, printf usa "\n" para terminar una línea comparado a std::endl.
 
-#### Materias:
-
-
 #### Estructura "Asistencia":
+Donde usé variables booleanos en C++, usé ints de 0 y 1 en C.
 
+## Conclusión:
+Aunque los dos lenguajes son adecuados para el proyecto, yo creo que C sería ideal, porque es mas robusto y eficiente y el código es similar al de C++.
