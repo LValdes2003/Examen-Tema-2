@@ -17,5 +17,7 @@ b) Permiten la creación de funciones y clases genéricas, es decir, que pueden 
 
 ## Código de C resuelto en carpeta "C"
 ## Código de C++ resuelto en carpeta "CPP"
-
+ 
 ## Diferencias de implementaciones
+#### Estructura "Estudiante":
+
