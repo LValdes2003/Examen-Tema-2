@@ -15,8 +15,8 @@ d) Una plantilla para crear objetos, proporciona una definición inicial para el
 #### ¿Qué son los templates en C++?
 b) Permiten la creación de funciones y clases genéricas, es decir, que pueden trabajar con cualquier tipo de datos.
 
-## Código de C resuelto en carpeta "C"
-## Código de C++ resuelto en carpeta "CPP"
+## Código de C resuelto en rama "C"
+## Código de C++ resuelto en rama "CPP"
 
 ## Diferencias de implementaciones
 #### Estructura "Estudiante":
